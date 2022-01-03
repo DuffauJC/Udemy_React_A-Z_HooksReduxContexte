@@ -10,4 +10,16 @@ background: #222;
 color: #f1f1f1;
 }
 
+.box{
+width: 200px;
+height: 200px;
+background: salmon;
+margin: 30px;
+transition: all ease-in-out 0.4s;
+}
+
+.animated{
+    background: lightblue;
+    transform: scale(1.3);
+}
 
