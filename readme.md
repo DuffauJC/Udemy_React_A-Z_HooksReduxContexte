@@ -7,3 +7,4 @@
 - 6 react router
 - 7 react api context
 - 8 react redux
+- 9 react blog (avec react-redux, thunk)
